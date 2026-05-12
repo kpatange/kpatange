@@ -23,9 +23,9 @@
 
 ```yaml
 name: "Krunal Patange"
-role: "Cloud Solution Architect"
+role: "Solution Architect"
 location: "Gothenburg, Sweden 🌍"
-experience: "18+ Years"
+experience: "20+ Years"
 
 focus:
   - "Designing resilient, scalable cloud architectures"
@@ -87,26 +87,7 @@ ask_me_about:
 
 </div>
 
-## 🏗️ Architecture Domains
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     CLOUD ARCHITECTURE STACK                    │
-├───────────────────┬─────────────────────┬───────────────────────┤
-│  🌐 NETWORKING    │  🔐 SECURITY        │  📊 DATA & ANALYTICS  │
-│  • VPCs & Peering │  • Zero Trust       │  • Data Lakes         │
-│  • CDN & WAF      │  • IAM & RBAC       │  • Streaming Pipelines│
-│  • DNS & LB       │  • SIEM & SOC       │  • BI & Warehousing   │
-├───────────────────┼─────────────────────┼───────────────────────┤
-│  🚀 COMPUTE       │  🗄️ STORAGE        │  🔄 INTEGRATION       │
-│  • Serverless     │  • Object Storage   │  • Event-Driven Arch  │
-│  • Containers     │  • Block & File     │  • API Gateway        │
-│  • VMs & Bare     │  • Backup & DR      │  • Message Queues     │
-├───────────────────┴─────────────────────┴───────────────────────┤
-│             ⚙️  PLATFORM ENGINEERING & SRE                      │
-│     GitOps · IaC · Observability · FinOps · Chaos Engineering   │
-└─────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -136,24 +117,6 @@ ask_me_about:
 
 </div>
 
-### 🔭 What I'm Building
-
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| 🏗️ **Multi-Cloud Landing Zone** | Automated, compliant cloud foundations | Terraform, AWS/Azure/GCP | 🟢 Active |
-| 🔐 **Zero Trust Framework** | Enterprise security reference architecture | HashiCorp Vault, OPA | 🟡 In Progress |
-| 📊 **FinOps Dashboard** | Real-time cloud cost observability | Grafana, CloudHealth | 🟢 Active |
-| 🤖 **AI-Infra Toolkit** | Cloud infra for GenAI workloads | Kubernetes, GPUs, MLflow | 🟣 Exploring |
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- 💰 [FinOps at Scale: Cutting Cloud Costs Without Cutting Corners](#)
-
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
