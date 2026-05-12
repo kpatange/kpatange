@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Cloud%20Solution%20Architect&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Designing%20Scalable%20Infrastructure%20for%20Tomorrow&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=%20Solution%20Architect&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Designing%20Scalable%20Infrastructure%20for%20Tomorrow&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 
@@ -41,7 +41,7 @@ currently:
 ask_me_about:
   - "Cloud Architecture & Design Patterns"
   - "Multi-Cloud & Hybrid Cloud Strategies"
-  - "Infrastructure as Code (Terraform / Pulumi)"
+  - "Infrastructure as Code (Terraform / Crossplane)"
   - "Cloud Security & Governance"
 ```
 
@@ -108,18 +108,6 @@ ask_me_about:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Cloud Landing Zone](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=cloud-landing-zone&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/cloud-landing-zone)
-[![K8s Platform](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=k8s-platform-blueprint&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/k8s-platform-blueprint)
-
-</div>
-
-
----
-
 ## 🌱 Thought Leadership
 
 > *"The best architecture is one that is invisible to its users — resilient, scalable, and quietly doing its job while the business grows."*
@@ -128,18 +116,6 @@ I regularly speak at cloud community events and contribute to open-source IaC mo
 
 ---
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always open to **architecture reviews**, **cloud strategy discussions**, and **open-source collaborations**.
-
-[![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-4CAF50?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/yourlink)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/yourlink)
-
-</div>
-
----
 
 <div align="center">
 
